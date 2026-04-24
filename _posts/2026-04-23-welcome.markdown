@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Who I am"
+date:   2026-04-23 23:19:08 -0400
+categories: story biography 
+---
+
+## Aiko Ryu
+
+First off, Aiko Ryu is a pseudonym as I prefer to keep any contributions private and away from my normal work as much as possible.
+
+Now, let's get into who I am, and what I am doing.
+
+Currently, I'm working on learning (from the start, including the math) about type theory, programming languages, and proof assistants with the end goal in mind
+of contributing heavily to proof assistants, possibly writing my own one day, or writing a backend that allows proofs to be directly translated from one proof assistant to another.
+
+Quite frankly, I realize that this is a lofty goal and that in-depth knowledge is needed (typically, this would be research that would be done in a PhD) and I've set myself a time horizon
+of ~10-12 years to work on this, while maintaining a full-time job. Ultimately, my goal is to contribute where I can to a small community of researchers that I feel are attempting to make software 
+safer via formal verification. If I have the wrong idea, or you feel like I'm crazy, or better yet, you want to get a hold of me and either:
+
+- Help me through my journey
+- Collaborate
+- Get to know me
+
+Feel free to reach out via email! I appreciate your time reading this and look forward to posting more in the future.
