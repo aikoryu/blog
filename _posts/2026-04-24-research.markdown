@@ -1,0 +1,41 @@
+## Why I'm pursuing prover interoperability as independent research
+
+Simply put, I wanted to do something that is hard, that I don't have ANY background in
+and that will continue to push me to learn.
+
+Beyond that, I've found some interest in different people over the time that I've spent
+on X and other social apps, and realized that what they're doing is both seemingly difficult
+(although I probably don't realize just how difficult it is), and equally as interesting.
+The introduction for me into this space was [Victor Taelin](https://github.com/VictorTaelin)
+who is building [HOC](https://github.com/HigherOrderCO) which I originally found through
+[Bend](https://github.com/HigherOrderCO/Bend).
+
+Further reviewing the content that he was putting out introduced me to the Lambda Calculus
+which I put in my back pocket to think about for a while.
+
+Then he came across my feed again, and sparked my interest again and I started looking into
+some of the people that he was following and found [ice1000](https://github.com/ice1000).
+
+Ultimately, this is what sparked my interest. Some of the things that I started taking a look
+at are:  
+    - [agda](https://github.com/agda/agda)  
+    - [arend](https://github.com/JetBrains/Arend)  
+    - [Coq/Rocq](https://github.com/rocq-prover)  
+    - [Lean](https://lean-lang.org/)  
+    - [Aya](https://github.com/aya-prover/aya-dev)  
+
+And more...
+
+So all of these things became an amalgamation of more things that I suddenly took interest
+in and so I built a study plan from basically scratch within a day or two.
+
+Ultimately, the real reason that I've chosen prover interoperability over some other topic
+is that I am interested in the implementation details associated with proof assistants, while
+also wanting to still dig into the theory and maths behind it. Frankly, my level for
+both programming and math are too elementary to contribute anything substantive right now and
+that's why there is a long time horizon on where I want to end up as an independent researcher.
+
+With all of that said, if you are reading this and in this field (or an adjacent field) please
+feel free to reach out to me via email and give some advice or just a heads up about what lies
+ahead for me. Although I feel a bit behind now, anything and everything can be
+learned with discipline, and that's ultimately my plan going forward.
